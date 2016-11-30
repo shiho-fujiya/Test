@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <member id="0001" name="taro" birth="1990-10-10"/>
+  <member id="0002" name="hanako" birth="1985-02-22"/>
+  <member id="0003" name="sayaka" birth="1991-03-10"/>
+  <member id="0004" name="yuka" birth="1990-05-10"/>
+</dataset>
